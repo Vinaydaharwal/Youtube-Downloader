@@ -40,5 +40,21 @@ pip install pytube pandas tabulate
 ## Note
 If you encounter issues installing pytube, you can search for pytube on GitHub or other platforms, download the ZIP file, and manually extract it to the site-packages directory of your Python environment.
 
+## Error 
+If you encounter occasional issues with the Pytube module due to regular expression errors, there are two potential solutions you can try:
+
+1. Wait for a few days before attempting to use the Pytube module again. Sometimes, these errors can be temporary and may get resolved in future updates.
+2. To troubleshoot the problem immediately, follow these steps:
+
+First, uninstall the Pytube module using the command:
+```bash
+pip uninstall pytube
+```
+Next, reinstall the Pytube module with the latest version using the command:
+
+```bash
+pip uninstall pytube
+```
+
 ## About this file
 This is the markdown file created using [readme.so](https://readme.so/) and [ChatGPT](https://chat.openai.com/)
