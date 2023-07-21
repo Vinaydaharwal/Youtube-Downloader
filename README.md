@@ -53,7 +53,7 @@ pip uninstall pytube
 Next, reinstall the Pytube module with the latest version using the command:
 
 ```bash
-pip uninstall pytube
+pip install pytube
 ```
 
 ## About this file
